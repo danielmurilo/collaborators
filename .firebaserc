@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "colaboradores2": {
+      "hosting": {
+        "app-colaboradores2": [
+          "colaboradores2"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "colaboradores2"
+  }
+}
